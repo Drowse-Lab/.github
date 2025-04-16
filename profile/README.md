@@ -2,6 +2,10 @@
 ### 紹介
 このorganization(和訳わからなかった)は、各々が自由に開発をしたりする場所です。
 入りたい方が @hrmcngs に連絡してください
+### ステータス
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowse-lab&show_icons=true&theme=dark&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drowse-lab&layout=compact&theme=dark&hide=c,assembly,&count_private=true,qmake,batchfile,scss)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <!--
