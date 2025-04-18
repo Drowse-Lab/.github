@@ -1,7 +1,7 @@
 ## Drowse-Lab
 ### 紹介
 このorganization(和訳わからなかった)は、各々が自由に開発をしたりする場所です。
-入りたい方が @drowse-lab/hrmcngs に連絡してください
+入りたい方が @hrmcngs に連絡してください  
 
 
 
