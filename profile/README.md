@@ -1,8 +1,8 @@
 ## Drowse-Lab
 ### 紹介
 このorganizationは、各々が自由に開発をしたりする場所です。  
-入りたい方は [hrmcngs](https://github.com/hrmcngs) に連絡してください。  
-非営利組織なんでどちらかと言ったら同好会なんで給料とかは出ませんよ。  
+入りたい方は [hrmcngs](https://github.com/hrmcngs) のinstagramかX(旧Twitter)連絡してください。X(旧Twitter)の方が確実だと思います。  
+会社ではありませんよ、同好会なんで給料とかは出ませんよ。  
 
 
 <!--
